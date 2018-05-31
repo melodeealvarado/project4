@@ -1,6 +1,11 @@
 body {
-	background-color:  #80bfff;
+	background-color: #336600;
 }
+
+h1 {
+	color: #ff9933; 
+}
+
 img {
 	width: 100%;
 	height: 100%;
@@ -86,9 +91,11 @@ li a {
 }
 
 li a:hover {
-	background-color: #99c2ff;
+	background-color: #009900;
 }                    
 
 li:last-child { 
 	border-right: none; 
 }
+
+

@@ -1,5 +1,5 @@
 body {
-	background-color:  #80bfff;
+	background-color: #ff0000;
 }
 img {
 	width: 100%;
@@ -86,7 +86,7 @@ li a {
 }
 
 li a:hover {
-	background-color: #99c2ff;
+	background-color: #ff4d4d;
 }                    
 
 li:last-child { 

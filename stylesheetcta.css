@@ -1,5 +1,5 @@
 body {
-	background-color:  #80bfff;
+	background-color: #8080ff;
 }
 img {
 	width: 100%;
@@ -39,6 +39,7 @@ li {
 .a {
 	grid-column-start: 1;
 	grid-column-end: span 2;
+	background-color: #8080ff;
 }
 
 .b {
@@ -46,23 +47,7 @@ li {
 	grid-column-end: span 2;
 
 }	
-.c {
-	grid-column-start: 1;
-	grid-column-end: span 2;
-}	
-.d {
-	grid-column-start: 3;
-	grid-column-end: span 2;
-}	
 
-.e{
-	grid-column-start: 1;
-	grid-column-end: span 2;
-}
-.f {
-	grid-column-start: 3;
-	grid-column-end: span 2;
-}
 a {
 	display: block;
 	padding: 8px; 
@@ -86,7 +71,7 @@ li a {
 }
 
 li a:hover {
-	background-color: #99c2ff;
+	background-color: #b3b3ff;
 }                    
 
 li:last-child { 
